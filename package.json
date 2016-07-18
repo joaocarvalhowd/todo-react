@@ -1,0 +1,30 @@
+{
+  "name": "todo-react",
+  "version": "1.0.0",
+  "description": "A todo application, built with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaocarvalhowd/todo-react.git"
+  },
+  "author": "João Carvalho (oi@joaocarvalhowd.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaocarvalhowd/todo-react/issues"
+  },
+  "homepage": "https://github.com/joaocarvalhowd/todo-react#readme",
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "flux": "^2.1.1",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
